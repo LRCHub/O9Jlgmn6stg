@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "うぉんちゅーばっど",
+  "base_artist": "jon-YAKITORY",
+  "createdAt": "2026-02-24T13:52:13.107611Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うぉんちゅーばっど",
+      "artist": "jon-YAKITORY",
+      "has_synced": false,
+      "path": "select/pl_01_うぉんちゅーばっど_jon-YAKITORY.txt"
+    }
+  ]
+}
